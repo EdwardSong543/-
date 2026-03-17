@@ -1,5 +1,6 @@
 # Game Design Document (GDD)
 **Raindrop Run**  
+**游戏展示视频** https://www.youtube.com/watch?v=sMKtvzJ4c8E
 ### Table of contents
 
 - [Introduction 🌧️](#introduction-)
